@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Gabriel Henrique 👋
 
 - 🌱 Estudando JavaScript
 - 📫 OpenToWork
