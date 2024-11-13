@@ -17,9 +17,13 @@
   <img align="center" alt="Gab-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Gab-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Gab-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  
-
 </div>
+<div align="center"  style="display: inline_block">
+    <a href="https://www.linkedin.com/in/ghenriquev/" style="text-decoration: none;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ghenriquev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghenriquev&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+  </div>
   
   ##
  
