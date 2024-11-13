@@ -1,6 +1,6 @@
 
 <div align="center">
- ### Olá! Eu sou o Gabriel Henrique 👋
+ <h3>Olá! Eu sou o Gabriel Henrique 👋</h3>
 </div>
 
 ##
