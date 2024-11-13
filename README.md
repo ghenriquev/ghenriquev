@@ -1,8 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6833ff&height=150&text=Desenvolvedor%20Front-end&animation=twinkling&fontColor=F8E7DE&fontSize=40&fontAlign=65&fontAlignY=30" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8899FF&size=22&center=false&vCenter=true&width=485&height=100&lines=%3C%3F+php+echo+%22Hello+World!%22+%3F%3E;Console.WriteLine(%22Hello+World!%22);print(%22Hello+World!%22)%3B" alt="Typing SVG" /></a>
-
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=6833ff&height=150&text=Desenvolvedor%20Front-end&animation=twinkling&fontColor=F8E7DE&fontSize=40&fontAlign=65&fontAlignY=30" />
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Henrique+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </div>
 
