@@ -1,29 +1,34 @@
+# Gabriel Henrique
 
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=6833ff&height=150&text=Desenvolvedor%20Front-end&animation=twinkling&fontColor=F8E7DE&fontSize=40&fontAlign=65&fontAlignY=30" />
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Henrique+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
-</div>
+**Head of Projects & Automation**  
+n8n • GoHighLevel • ClickUp • AI Workflows
 
-##
+---
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-jQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="Gab-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Gab-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Gab-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gab-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
+## Sobre
 
-  
-  ##
- 
-<div align="center"> 
-  
-   <a href="https://instagram.com/ghenriquev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.emv@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ghenriquev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Líder de projetos e automação, focado em orquestrar dados e processos entre CRM, funis de vendas, tráfego pago e atendimento usando n8n, GoHighLevel e IA.  
+Crio workflows que reduzem tarefas manuais, aumentam a velocidade de resposta ao lead e dão visibilidade em tempo real para times de vendas e marketing.
 
-</div>
+---
+
+## Em que atuo hoje
+
+- Desenho e implemento workflows no n8n integrando GoHighLevel, CRMs, plataformas de Ads, BI e ferramentas internas.
+- Construo agentes de IA conectados a bases de conhecimento para atendimento, suporte e qualificação de leads.
+- Estruturo automações de operação em GoHighLevel (pipelines, campanhas, disparos, webhooks) alinhadas com o playbook comercial.
+- Organizo gestão de projetos e operação em ClickUp, com automações de criação de tasks, handoffs e SLAs.
+
+---
+
+## Stack principal
+
+- Automação: **n8n**, GoHighLevel, Webhooks, APIs REST
+- Linguagens: **JavaScript/TypeScript**, Python (scripts de automação)
+- Dados: **PostgreSQL/Supabase**, Google Sheets, Redis (cache/tokens)
+- Operação: **ClickUp**, integrações com CRM, ferramentas de suporte e marketing
+
+## Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/ghenriquev](https://linkedin.com/in/ghenriquev)
+- GitHub: [github.com/ghenriquev](https://github.com/ghenriquev)
