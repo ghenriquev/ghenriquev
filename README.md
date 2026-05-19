@@ -23,4 +23,4 @@ TypeScript · JavaScript · Python · PHP · SQL · React · Supabase · Postgre
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/ghenriquev) | [Portfólio](https://ghenriquev.github.io/portfolio/) | [GitHub](https://github.com/ghenriquev)
+[LinkedIn](https://www.linkedin.com/in/ghenriquev) | [GitHub](https://github.com/ghenriquev)
