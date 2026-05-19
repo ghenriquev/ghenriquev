@@ -1,22 +1,26 @@
 ## Gabriel Henrique
 
-Head de IA e desenvolvedor, criando produtos internos, automações e agentes com IA.
+Engenheiro de IA na Reprotel, focado em IA aplicada, agentes e integrações.
 
-Atualmente estou focado em codar soluções que conectam IA, dados e operação: APIs, integrações, automações, agentes, dashboards e ferramentas para times trabalharem melhor.
+Trabalho na RAI, a plataforma interna da Reprotel para gestão, automações e IA aplicada. Hoje ela roda agentes em produção para atendimento, análise de reuniões, briefings, NPS, criativos, Ads e Customer Success.
 
-### Foco atual
+### O que eu faço
 
-- Desenvolvimento com TypeScript, JavaScript, Python, PHP e SQL
-- Agentes de IA, automações e integrações com APIs
-- Produtos internos com Supabase, PostgreSQL, MySQL e ferramentas low-code quando faz sentido
-- Prototipagem rápida, arquitetura de fluxos e melhoria de processos com IA
+- Agentes LLM com tool-calling, structured output, RAG e avaliação multimodal
+- Pipelines multi-agente para transformar dados, conversas e reuniões em ação
+- Integrações com ClickUp, tl;dv, Meta Ads, Google Ads, GA4, Google Calendar e Z-API
+- Produtos internos com React, TypeScript, Supabase Edge Functions e Postgres
+- Desenvolvimento com IA no fluxo: Claude Code, Cursor e prototipagem rápida
 
-### Projetos recentes
+### Stack
 
-- [hotel-hub-planner](https://github.com/ghenriquev/hotel-hub-planner) - app em TypeScript para planejamento operacional
+TypeScript · JavaScript · Python · PHP · SQL · React · Supabase · Postgres · Tailwind · OpenAI · Claude Code
+
+### Projetos públicos
+
 - [tldv-mcp-wrapper](https://github.com/ghenriquev/tldv-mcp-wrapper) - wrapper em JavaScript para automações com tl;dv
 - [diaria-media-api](https://github.com/ghenriquev/diaria-media-api) - API para cálculo e consulta de diária média
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/ghenriquev) | [GitHub](https://github.com/ghenriquev)
+[LinkedIn](https://www.linkedin.com/in/ghenriquev) | [Portfólio](https://ghenriquev.github.io/portfolio/) | [GitHub](https://github.com/ghenriquev)
