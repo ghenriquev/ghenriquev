@@ -1,21 +1,21 @@
 ## Gabriel Henrique
 
-Trabalho com gestão de projetos, automações e IA aplicada a operações.
+Head de IA e desenvolvedor, criando produtos internos, automações e agentes com IA.
 
-Atualmente atuo na Reprotel Marketing Hoteleiro, estruturando fluxos internos, integrações entre ferramentas e protótipos funcionais para reduzir trabalho manual e dar mais visibilidade para os times.
+Atualmente estou focado em codar soluções que conectam IA, dados e operação: APIs, integrações, automações, agentes, dashboards e ferramentas para times trabalharem melhor.
 
 ### Foco atual
 
-- Automação de processos com ClickUp, n8n, Make, Zapier e APIs
-- Produtos internos e protótipos com TypeScript, JavaScript, PHP e SQL
-- Integrações com Supabase, PostgreSQL, MySQL e ferramentas de IA
-- Organização de operações, dados e rotinas entre times
+- Desenvolvimento com TypeScript, JavaScript, Python, PHP e SQL
+- Agentes de IA, automações e integrações com APIs
+- Produtos internos com Supabase, PostgreSQL, MySQL e ferramentas low-code quando faz sentido
+- Prototipagem rápida, arquitetura de fluxos e melhoria de processos com IA
 
 ### Projetos recentes
 
-- [hotel-hub-planner](https://github.com/ghenriquev/hotel-hub-planner) - planejamento e organização para operações hoteleiras
-- [tldv-mcp-wrapper](https://github.com/ghenriquev/tldv-mcp-wrapper) - integração em JavaScript para automações com tl;dv
-- [diaria-media-api](https://github.com/ghenriquev/diaria-media-api) - cálculo e consulta de diária média
+- [hotel-hub-planner](https://github.com/ghenriquev/hotel-hub-planner) - app em TypeScript para planejamento operacional
+- [tldv-mcp-wrapper](https://github.com/ghenriquev/tldv-mcp-wrapper) - wrapper em JavaScript para automações com tl;dv
+- [diaria-media-api](https://github.com/ghenriquev/diaria-media-api) - API para cálculo e consulta de diária média
 
 ### Contato
 
